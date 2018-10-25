@@ -1,0 +1,1 @@
+a no. is divisible by 2 if  its even
